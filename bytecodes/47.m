@@ -14,4 +14,3 @@ queue
 push 11111
 add
 pall
-anisah
